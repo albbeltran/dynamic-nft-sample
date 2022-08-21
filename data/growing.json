@@ -1,0 +1,15 @@
+{
+    "name": "Flower Seed",
+    "description": "NFT Flower to learn about off-chain data",
+    "image": "https://gateway.pinata.cloud/ipfs/QmT2zR8hsSAEGNURidFu9EGZJHQXRG2oBMbLwQ2yezXHMH",
+    "attributes": [
+        {
+            "trait-type": "FlowerStage",
+            "value": "Seed"
+        },
+        {
+            "trait-type": "FlowerColor",
+            "value": "Brown"
+        }
+    ]
+}
